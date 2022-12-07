@@ -1,0 +1,7 @@
+[host]
+name = something
+url = https://something.com
+port = 443
+
+[system]
+debug=true
